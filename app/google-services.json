@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164368556235",
+    "project_id": "questfirebase-df699",
+    "storage_bucket": "questfirebase-df699.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164368556235:android:8c39b007bf3296457a3b4e",
+        "android_client_info": {
+          "package_name": "com.tugas.firebass15"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOCokmSzfWkDSt-pHNewPMr3J7eiQ8m-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

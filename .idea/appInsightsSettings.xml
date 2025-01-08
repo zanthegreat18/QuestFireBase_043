@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.tugas.firebass15" />
+                  <option name="mobileSdkAppId" value="1:164368556235:android:8c39b007bf3296457a3b4e" />
+                  <option name="projectId" value="questfirebase-df699" />
+                  <option name="projectNumber" value="164368556235" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
