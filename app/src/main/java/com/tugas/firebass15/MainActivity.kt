@@ -11,6 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.tugas.firebass15.ui.home.navigation.PengelolaHalaman
 import com.tugas.firebass15.ui.home.pages.HomeScreen
 import com.tugas.firebass15.ui.theme.Firebass15Theme
 
@@ -21,9 +22,8 @@ class MainActivity : ComponentActivity() {
         setContent {
             Firebass15Theme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    HomeScreen(
-                        modifier = Modifier.padding(innerPadding),
-                        navigateToItemEntry = {  }
+                    PengelolaHalaman(
+                        modifier = Modifier.padding(innerPadding)
                     )
                 }
             }
